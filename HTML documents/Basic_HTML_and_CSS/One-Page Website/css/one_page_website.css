@@ -1,0 +1,67 @@
+body{
+    font-size: 14;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: pink;
+}
+h1{
+    line-height: 2;
+    font-weight: 900;
+    font-size:60px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #00FF00;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+.nav {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    text-align: center;
+	line-height: 20;
+}
+.link{
+    max-height: 340px;
+    margin: 0% auto;
+    content: "";
+    width: 100%;
+    position: fixed;
+    z-index: index 100%;
+}
+
+.adopt rsvp[type="text"]{
+	color:rgb(225,225,225);
+	cursor:text;
+	border:none;
+	font-weight:900;
+	outline:none;
+	text-align:center;
+	font-family:Arial;
+	margin:0px 3%;
+	padding:7px 0px;
+	width:25%;
+	font-size:18px;
+	transition:border-color 0.3s color 0.3s background-color 0.3s; 
+	border-radius:7px;
+	width:25%;
+}
+ 
+form {
+	font-size:15px;
+	outline:none;
+	font-weight:600;
+	color:blue;
+	padding:12px 12px;
+	width:70%;
+	border:1px solid #808080;
+	margin:2% auto;
+	border-radius:7px;
+	background:lightblue;
+	box-shadow:2px 3px 3px 0px rgba(0,0,0,0.3);
+	font-family:Arial;
+}
