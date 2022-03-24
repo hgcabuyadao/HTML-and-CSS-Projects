@@ -6,10 +6,8 @@ Projects
 - Movie Theater Site
 
 The Jordans Site
-
 This page is an example home page for an online shop for Jordan sneakers.  
 It is styled using CSS and conatined a Navbar, image cointaners, and form.
-
 
 Movie Theater Site
 This page is an example home page for a Movie theater that is styled in Bootstrap 4. It
